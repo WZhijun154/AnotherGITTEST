@@ -1,1 +1,1 @@
-# GITTEST
+# A simple test
